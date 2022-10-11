@@ -33,10 +33,8 @@
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
 
-# "Yeh":
-#   - firstname: ["C. H.", "C.-H.","Chia Hung", "Chia-Hung"]
-#     url: https://sites.google.com/site/chiahungyeh/
-# # "Lin":
-#   - firstname: ["Wei-Cheng", "W.-C.""]
-#     url: https://sites.google.com/site/chiahungyeh/
+"Yeh":
+  - firstname: ["C. H.", "C.-H.","Chia Hung", "Chia-Hung"]
+    url: https://sites.google.com/site/chiahungyeh/
+
 

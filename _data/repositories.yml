@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - stevenlin510
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - stevenlin510/Enhanced_PCU
+  - stevenlin510/Advanced-Image-Processing-2021 
+  - stevenlin510/SMDA 
+  - stevenlin510/Vehicle_speed_estimation-Lane_changing_detection 
+  - stevenlin510/Archery_Detection 
+  - stevenlin510/Credit-Card-Fraud-Detection 

@@ -5,8 +5,8 @@
       value: Wei Cheng Lin (Steven)
     - name: Country
       value: Taiwan
-    - name: Interests
-      value: Badminton, Basketball
+    - name: Research Interest
+      value: Computer Vision, Deep Learning
 
 - title: Education
   type: time_table

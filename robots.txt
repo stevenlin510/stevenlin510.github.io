@@ -3,5 +3,5 @@ permalink: /robots.txt
 ---
 User-agent: *
 Disallow:
-
+News can be turn on at about.html
 Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
